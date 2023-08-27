@@ -24,6 +24,8 @@ time.sleep(3)
 
 driver.quit()
 '''
+
+'''
 import os, time
 from selenium import webdriver
 import chromedriver_autoinstaller
@@ -57,5 +59,5 @@ driver = chrome_driver()
 driver.get('https://naver.com')
 driver.implicitly_wait(5)
 driver.quit()
-
+'''
 
