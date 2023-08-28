@@ -50,3 +50,6 @@ driver.find_element(By.XPATH, '//button[text()="hello world"]')
 
 ## docs
 https://selenium-python.readthedocs.io/index.html
+
+## news
+https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258&date=20230822&page=1
